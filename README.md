@@ -4,7 +4,7 @@ I'm [Nahid Hasan](https://github.com/nahid1126)
 - 🌱 I’m currently learning ... Android
 - 👯 I’m looking to collaborate on ... Android
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [nahidnub1126@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 - 😄 Pronouns: ... he/him
 
