@@ -1,7 +1,7 @@
 ### Peace be unto you 👋
 I'm [Nahid Hasan](https://github.com/nahid1126)<hr>
-🌱 I’m currently learning ... Android and Java<br>
-👯 I’m looking to collaborate on ... Android<br>
+🌱 I’m currently learning ... <code><img height="20" src="https://camo.githubusercontent.com/af0234bbf890fd844067f902da1127bebb892509d77033c157d9a130852c226e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f69642d3232324632393f7374796c653d666c61742d737175617265266c6f676f3d416e64726f6964266c6f676f436f6c6f723d7768697465"></code> and <code><img height="20" src="https://camo.githubusercontent.com/9833b44df585b2484d4c46a015384d184c01f68e1604e7b13acd759f7870427e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465"></code><br>
+👯 I’m looking to collaborate on ... <code><img height="20" src="https://camo.githubusercontent.com/af0234bbf890fd844067f902da1127bebb892509d77033c157d9a130852c226e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f69642d3232324632393f7374796c653d666c61742d737175617265266c6f676f3d416e64726f6964266c6f676f436f6c6f723d7768697465"></code><br>
 💬 Ask me about ... Anything<br>
 📫 How to reach me: ... [nahidnub1126@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)<br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nahid1126)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100006973476529)<hr>
