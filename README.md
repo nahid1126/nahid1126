@@ -17,4 +17,4 @@ I'm [Nahid Hasan](https://github.com/nahid1126)<hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid1126&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid1126&langs_count=8&theme=tokyonight)](https://github.com/nahid1126/github-readme-stats)<br>
 
-
+<a href="https://stardev.io/developers/nahid1126"><img alt="Check out nahid1126&apos;s profile on stardev.io" src="https://stardev.io/developers/nahid1126/badge/languages/global.svg" /></a>
